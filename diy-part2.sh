@@ -26,6 +26,7 @@ git clone https://github.com/project-openwrt/luci-app-unblockneteasemusic.git pa
 git clone https://github.com/Lienol/openwrt-package.git package/lienol
 git clone https://github.com/Sunnice/lienolps.git package/passwall
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/jd
+git clone https://github.com/jerrykuku/node-request.git package/node
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argonnew
 git clone https://github.com/Lienol/luci-theme-darkmatter.git package/luci-theme-darkmatter
 git clone https://github.com/rosywrt/luci-theme-rosy.git package/luci-theme-rosy
